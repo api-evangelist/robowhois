@@ -1,0 +1,62 @@
+{
+    "name": "RoboWhois",
+    "description": "RoboWhois is a cloud-based web service that provides a RESTful API to access WHOIS records and domain related information with a unified, consistent interface.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/912-robowhois.jpg",
+    "tags": [
+        "domains",
+        "have api",
+        "http post",
+        "whois"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/robowhois\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RoboWhois",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/912-robowhois.jpg",
+            "humanURL": "http:\/\/www.robowhois.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/robowhois-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/robowhois-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.robowhois.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/robowhois"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.robowhois.com\/docs\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/robowhois"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/robowhois"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.robowhois.com\/"
+        }
+    ]
+}
